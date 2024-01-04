@@ -8,9 +8,7 @@
     "contentful",
     "cms-as-code"
   ],
-  "engines": {
-    "node": ">=8"
-  },
+  
   "bin": {
     "ctf-migrate": "./bin/ctf-migrate"
   },
