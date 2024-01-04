@@ -1,6 +1,6 @@
 {
   "name": "mi-contentful-migrate",
-  "version": "0.18.21",
+  "version": "0.18.22",
   "description": "Migration tooling for Contentful, with state management",
   "keywords": [
     "migrate",
@@ -9,7 +9,7 @@
     "cms-as-code"
   ],
   "engines": {
-    "node": ">=8"
+    "node": ">=18"
   },
   "bin": {
     "ctf-migrate": "./bin/ctf-migrate"
@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "chalk": "^3.0.0",
-    "contentful-management": "^7.11.0",
+    "contentful-management": "^11.8.0",
     "contentful-migration": "^4.19.0",
     "dateformat": "^3.0.3",
     "eslint": "^6.8.0",
