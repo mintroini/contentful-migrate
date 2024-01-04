@@ -1,6 +1,6 @@
 {
   "name": "mi-contentful-migrate",
-  "version": "0.18.23",
+  "version": "0.18.22",
   "description": "Migration tooling for Contentful, with state management",
   "keywords": [
     "migrate",
@@ -44,8 +44,6 @@
   },
   "dependencies": {
     "chalk": "^3.0.0",
-    "contentful-management": "^11.8.0",
-    "contentful-migration": "^4.19.0",
     "dateformat": "^3.0.3",
     "eslint": "^6.8.0",
     "eslint-config-standard": "^14.1.0",
